@@ -23,7 +23,7 @@ Run following command in your terminal
 docker compose up --build
 ```
 
-remove --build arg if you are rerunning the app witout making changes in dockerfile and docker-compose file
+remove --build argument if you are rerunning the app witout making changes in dockerfile and docker-compose file
 
 and you are good to go visit http://localhost:4001
 
